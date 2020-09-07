@@ -1,3 +1,13 @@
 # reactNativeLeaning
 Learning reactNative
-commit by WSL2 (HOME)
+
+
+$ npm i -g expo-cli
+
+# init new project
+$ expo init DoneWithIt
+
+$ npm install
+
+$ npm start
+
