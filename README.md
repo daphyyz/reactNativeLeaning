@@ -1,3 +1,3 @@
 # reactNativeLeaning
 Learning reactNative
-commit by WSL2
+commit by WSL2 (HOME)
